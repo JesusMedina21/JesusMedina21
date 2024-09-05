@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [portafoliojesusmedina.web.app](portafoliojesusmedina.web.app)
 
-- 📫 Puedes contactarme por: **jesusmedina0921@gmail.com**
+- 📫 Puedes contactarme en: **jesusmedina0921@gmail.com**
 
 - 📄 Sobre mi: **Soy un desarrollador web autodidactada, en cual me estoy enfocando en hacer proyectos multiplataformas (Web y Movil) a traves de Ionic utilizando Angular. Tambien tengo experiencias en otros Frameworks Web como Django**   
 
