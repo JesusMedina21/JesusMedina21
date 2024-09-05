@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Jesus Medina</h1>
+<h1 align="center">Hola 👋 <br> Soy Jesus Medina</h1>
 <h3 align="center">Un desarrollador Backend y Frontend de Venezuela</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Angular**
