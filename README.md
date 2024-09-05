@@ -7,7 +7,7 @@
 
 - 📫 Puedes contactarme por: **jesusmedina0921@gmail.com**
 
-- 📄 Conoce mis experiencias Soy un desarrollador web autodidactada, en cual me estoy enfocando en hacer proyectos multiplataformas (Web y Movil) a traves de Ionic utilizando Angular. Tambien tengo experiencias en otros Frameworks Web como Django   
+- 📄 **Soy un desarrollador web autodidactada, en cual me estoy enfocando en hacer proyectos multiplataformas (Web y Movil) a traves de Ionic utilizando Angular. Tambien tengo experiencias en otros Frameworks Web como Django**   
 
 <p align="left">
 </p>
