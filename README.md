@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 <br> Soy Jesus Medina</h1>
-<h3 align="center">Un desarrollador Web Backend y Frontend Junior de Venezuela</h3>
+<h3 align="center">Un desarrollador Web FullStack Junior de Venezuela</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Angular**
 
