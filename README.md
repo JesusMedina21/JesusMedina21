@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Angular**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [portafoliojesusmedina.web.app](portafoliojesusmedina.web.app)
+- 👨‍💻 Todos mis proyectos están disponibles en [portafoliojesusmedina.vercel.app](portafoliojesusmedina.vercel.app)
 
 - 📫 Puedes contactarme en: **jesusmedina0921@gmail.com**
 
