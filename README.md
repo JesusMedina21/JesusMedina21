@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 <br> Soy Jesus Medina</h1>
 <h3 align="center">Un desarrollador Web y Movil de Venezuela 🇻🇪 </h3>
 
-- 🌱 Actualmente estoy enfocado en **Angular**
+- 🌱 Actualmente estoy trabajando con **Angular**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [portafoliojesusmedina.vercel.app](portafoliojesusmedina.vercel.app)
 
